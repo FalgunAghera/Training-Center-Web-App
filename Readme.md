@@ -1,4 +1,4 @@
-﻿API Test with MongoDB
+﻿/*API Test with MongoDB
 This is a sample project that demonstrates how to create a RESTful API using ASP.NET Core with MongoDB as the database.
 Setup
 To run this project, you will need the following:
@@ -34,4 +34,4 @@ GET /api/training_center_get_all
 Returns a list of all training centers.
 POST /api/training_center_add
 Adds a new training center. The request body should contain a JSON representation of the training center:
-
+*/
